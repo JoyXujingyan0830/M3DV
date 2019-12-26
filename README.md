@@ -4,12 +4,12 @@
 3. run.py : run this script to gain the submission.csv with model.pth
 
 Environment requirements:
-    torch
-    numpy
-    pandas
-    csv
-    cuda
-    torchvision
-    argparse
-    os
+    torch,
+    numpy,
+    pandas,
+    csv,
+    cuda,
+    torchvision,
+    argparse,
+    os,
     logging
